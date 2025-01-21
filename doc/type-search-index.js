@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.ou.cs2334.project5.views.clues","l":"AbstractOrientedClueView"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"}];updateSearchResults();
